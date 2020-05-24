@@ -1,0 +1,14 @@
+{
+  "name": "@mohammmadalizare/tofadigitnum",
+  "version": "1.0.0",
+  "description": "convertnumbers",
+  "main": "index.js",
+  "keywords": [
+    "Numbers"
+  ],
+  "author": "mohammmadalizare"
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamadzare/TopersianNumber.git"
+  }
+}
